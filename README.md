@@ -14,11 +14,14 @@ For this release I used <a href='https://forum.cfx.re/t/release-warmenu-lua-menu
 
 The script is open-source so feel free to edit it to your own liking, but please don't claim it as yours.
 
+<a href='https://youtu.be/eQoh1UdnHio'>Video Preview</a>.
+
 <h2>Download</h2>
 All the scripts I make are free of charge. But if you do decide you want to support me and the work I do you can buy the script at my <a href='https://www.aurorashop.tebex.io'>Tebex</a> store for any amount.
 Any amount you give will go a long way of helping me make more scripts which are also going to be free of charge.
 
 Direct download <a href='https://github.com/LukeWasTakenn/luke_tourguide/archive/master.zip'>link</a>.
+Github <a href='https://github.com/LukeWasTakenn/luke_tourguide'>repo</a>.
 
 Huge thank you to Spykerco and lefouduquebec who contributed in my Chop Shop release, you're awesome!
 
