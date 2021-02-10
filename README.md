@@ -21,7 +21,7 @@ Huge thank you to Spykerco and lefouduquebec who contributed in my Chop Shop rel
 
 Please feel free to leave your feedback.
 
-How To Install
+# How To Install
 
 1. Download the script, unpack it, remove the -master from the folder name and place it inside of your Resources folder.
 2. Download pogressBar made by Poggu here. Unpack it, remove -master from the folder name and place it inside of your Resources folder.
