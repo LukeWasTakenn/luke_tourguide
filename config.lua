@@ -22,6 +22,8 @@ Config.VehicleDeleteTimer = 3
 Config.PaymentInBank = true -- Whether you want the player to recieve the money in the bank or in cash
 Config.MoneyPerStop = 100
 
+Config.PedsVisibleToOtherPlayers = true
+
 Config.PassangerPickUpLocation = {x = 430.73, y = -641.52, z = 27.5} -- This is always the first waypoint on route select
 
 Config.Routes = {

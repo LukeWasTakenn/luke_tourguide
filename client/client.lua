@@ -365,7 +365,7 @@ function LoadPeds(vehicle)
     spawnedNPCS = {}
     for i = 1, 8, 1 do
         LoadRandomPedModel()
-        spawnedNPCS[i] = CreatePedInsideVehicle(vehicle, 0 , pedModel, i, false, true)
+        spawnedNPCS[i] = CreatePedInsideVehicle(vehicle, 0 , pedModel, i, Config.PedsVisibleToOtherPlayers, false)
         Citizen.Wait(50)
     end
 end
